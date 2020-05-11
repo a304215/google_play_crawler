@@ -9,7 +9,7 @@ A crawler that crawls all applications' data from the Google Play and save it to
 
 ## Usage
 
-```
+```shell
 git clone https://github.com/yaoandy107/google_play_crawler.git
 cd google_play_crawler
 pip3 install -r requirements.txt
