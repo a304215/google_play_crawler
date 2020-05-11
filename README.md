@@ -1,6 +1,6 @@
 # Google Play Crawler
 
-A crawler that crawl all application's data from the Google Play and save to Mongodb.
+A crawler that crawls all applications' data from the Google Play and save it to Mongodb.
 
 ## Dependencies
 
