@@ -4,8 +4,8 @@ A crawler that crawls all applications' data from the Google Play and save it to
 
 ## Requirements
 - Python 3
-- Mongodb
-  Please Follow the [Mongodb Manual](https://docs.mongodb.com/manual/installation/)
+- MongoDB
+  Please Follow the [MongoDB Manual](https://docs.mongodb.com/manual/installation/)
 
 ## Usage
 
