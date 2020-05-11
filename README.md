@@ -1,8 +1,6 @@
 # Google Play Crawler
 
-A crawler that crawls all applications' data from the Google Play and save it to Mongodb.
-
-## Dependencies
+A crawler that crawls all applications' data from the Google Play and save it to MongoDB.
 
 ## Requirements
 - Python 3
