@@ -15,3 +15,5 @@ cd google_play_crawler
 pip3 install -r requirements.txt
 scrapy crawl google
 ```
+
+> If you want to switch the language of Google Play, you could go to change the `Accept-Language` in `setting.py`.
